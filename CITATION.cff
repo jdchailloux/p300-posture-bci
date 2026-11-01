@@ -28,7 +28,7 @@ authors:
 references:
   - type: dataset
     title: "P300-BCI EEG dataset: sitting vs. supine posture"
-    doi: "10.5281/zenodo.23787197"
+    doi: "10.5281/zenodo.23787196"
     authors:
       - family-names: "Chailloux Peguero"
         given-names: "Juan David"

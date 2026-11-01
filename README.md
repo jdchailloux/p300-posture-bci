@@ -9,7 +9,7 @@ The study asks whether a P300-based brain–computer interface (BCI) works equal
 ## Requirements
 - MATLAB with the Signal Processing and Statistics and Machine Learning toolboxes (tested with R2026a; R2023a or later recommended).
 - [FieldTrip](https://www.fieldtriptoolbox.org), used for ERP pre-processing.
-- The public dataset *P300-BCI EEG dataset: sitting vs. supine posture* (Zenodo, DOI: [10.5281/zenodo.23787197](https://doi.org/10.5281/zenodo.23787197)). Unzip it in any folder.
+- The public dataset *P300-BCI EEG dataset: sitting vs. supine posture* (Zenodo, DOI: [10.5281/zenodo.23787196](https://doi.org/10.5281/zenodo.23787196)). Unzip it in any folder.
 
 ## Quick start
 1. Clone the repository:
