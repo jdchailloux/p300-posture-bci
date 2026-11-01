@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and the dataset."
+title: "p300-posture-bci: analysis code for the sitting vs. supine P300-BCI study"
+type: software
+license: MIT
+repository-code: "https://github.com/jdchailloux/p300-posture-bci"
+authors:
+  - family-names: "Chailloux Peguero"
+    given-names: "Juan David"
+    affiliation: "Tecnologico de Monterrey"
+    email: "jdavid.chailloux@tec.mx"
+  - family-names: "Mendoza-Montoya"
+    given-names: "Omar"
+    affiliation: "Tecnologico de Monterrey"
+  - family-names: "Antelis"
+    given-names: "Javier M."
+    affiliation: "Tecnologico de Monterrey"
+  - family-names: "Fabregas"
+    given-names: "Ernesto"
+    affiliation: "Universidad Nacional de Educación a Distancia"
+  - family-names: "Farias"
+    given-names: "Gonzalo"
+    affiliation: "Pontificia Universidad Católica de Valparaíso"
+  - family-names: "Velastin"
+    given-names: "Sergio A."
+    affiliation: "Queen Mary University of London"
+    email: "sergio.velastin@ieee.org"
+references:
+  - type: dataset
+    title: "P300-BCI EEG dataset: sitting vs. supine posture"
+    doi: "10.5281/zenodo.23787197"
+    authors:
+      - family-names: "Chailloux Peguero"
+        given-names: "Juan David"
+      - family-names: "Mendoza-Montoya"
+        given-names: "Omar"
+      - family-names: "Antelis"
+        given-names: "Javier M."
+      - family-names: "Fabregas"
+        given-names: "Ernesto"
+      - family-names: "Farias"
+        given-names: "Gonzalo"
+      - family-names: "Velastin"
+        given-names: "Sergio A."
+preferred-citation:
+  type: article
+  title: "Effect of Sitting and Supine Postures on Visual Event-Related Potentials and the Online Performance of a P300-Based Brain–Computer Interface"
+  journal: "Sensors"
+  status: submitted
+  authors:
+    - family-names: "Chailloux Peguero"
+      given-names: "Juan David"
+    - family-names: "Mendoza-Montoya"
+      given-names: "Omar"
+    - family-names: "Antelis"
+      given-names: "Javier M."
+    - family-names: "Fabregas"
+      given-names: "Ernesto"
+    - family-names: "Farias"
+      given-names: "Gonzalo"
+    - family-names: "Velastin"
+      given-names: "Sergio A."

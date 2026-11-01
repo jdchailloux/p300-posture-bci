@@ -1,0 +1,22 @@
+# Generated results
+output/
+output_run_log.txt
+
+# MATLAB temporary files
+*.asv
+*.m~
+*.mat
+slprj/
+
+# Data must never be committed (published separately on Zenodo)
+*.ebr
+*.csv
+dataset*/
+notas.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX / MATLAB logs
+*.log
